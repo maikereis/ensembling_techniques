@@ -1,0 +1,1 @@
+ Ensembling in machine learning combine the decisions from multiple models to improve the overall perfomance.
